@@ -1,5 +1,5 @@
 {
-    "name": "marco/module-minimal-module",
+    "name": "marco/module-configuration",
     "description": "N/A",
     "require": {
         "php": "~7.1.3||~7.2.0",
@@ -15,7 +15,7 @@
             "registration.php"
         ],
         "psr-4": {
-            "Marco\\MinimalModule\\": ""
+            "Marco\\Configuration\\": ""
         }
     },
     "version": "0.1.0"
